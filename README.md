@@ -48,6 +48,7 @@ Prerequisites Before you begin, ensure you have the following installed: Python 
                         (OR)
 First copy the path of the app.py, i.e., your saved code location. Then open cmd or Terminal and Enter: cd path of file #Replace your file path then press Enter. Then again type streamlit run app.py #Replace app with your filename then press Enter. You should see a new tab open in your browser at http://localhost:8501, showing the weather dashboard.
 
-#OUTPUT
+#OUTPUT  
+<img width="1699" height="904" alt="Image" src="https://github.com/user-attachments/assets/f52e9da0-5e04-4ffe-a85b-66b7f9ed0b2f" />
 
 
