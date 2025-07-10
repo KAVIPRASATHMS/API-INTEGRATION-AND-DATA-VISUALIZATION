@@ -50,8 +50,4 @@ First copy the path of the app.py, i.e., your saved code location. Then open cmd
 
 #OUTPUT
 
-Image
 
-Image
-
-Image
